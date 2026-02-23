@@ -85,7 +85,9 @@ export const Hero = () => {
               <div className="relative w-64 h-64 lg:w-80 lg:h-80 rounded-full overflow-hidden border-4 border-primary/30">
                 <div className="w-full h-full bg-gradient-to-br from-secondary to-muted flex items-center justify-center">
                   <span className="text-6xl lg:text-8xl font-heading font-bold gradient-text">
-                    SS
+                      <img 
+                         src="/My_picture.png" 
+                         alt="SS Logo"  />
                   </span>
                 </div>
               </div>
