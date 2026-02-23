@@ -86,7 +86,7 @@ export const Hero = () => {
                 <div className="w-full h-full bg-gradient-to-br from-secondary to-muted flex items-center justify-center">
                   <span className="text-6xl lg:text-8xl font-heading font-bold gradient-text">
                       <img 
-                         src="/My_picture.png" 
+                         src="/My_picture(1).png" 
                          alt="SS Logo"  />
                   </span>
                 </div>
