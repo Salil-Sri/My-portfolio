@@ -3,6 +3,14 @@ import { Button } from "@/components/ui/button";
 
 const projects = [
   {
+  title: "AI Resume Analyzer",
+  description: "An AI-powered web application that analyzes resumes and provides intelligent feedback, ATS score insights, and improvement suggestions using modern frontend and backend technologies.",
+  image: "/placeholder.svg",
+  tech: ["React", "Tailwind CSS", "Node.js", "Puter.js", "OpenAI", "Vercel"],
+  github: "https://github.com/Salil-Sri/AI-Resume-Analyzer-",
+  live: "https://resume-analyzer-evaluator.vercel.app/"
+},
+  {
     title: "Country Search Platform",
     description: "A simple and interactive web application that allows users to search for country details using the REST Countries API.",
     image: "/placeholder.svg",
